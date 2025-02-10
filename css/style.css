@@ -23,7 +23,7 @@ body {
     height: auto;
 }
 
-#first_left,
+#banner,
 #first_right,
 #second-section,
 #second-right,
@@ -49,7 +49,7 @@ body {
         flex-direction: column;
     }
 
-    #first_left,
+    #banner,
     #first_right,
     #second-section,
     #second-right,
